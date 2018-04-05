@@ -26,3 +26,5 @@ chrome.runtime.onMessage.addListener(
 		});
 	}
 );
+
+// https://developer.chrome.com/extensions/content_scripts
